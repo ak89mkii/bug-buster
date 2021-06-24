@@ -1,10 +1,12 @@
 # Bug Buster: Unity Game
 
+![Screenshot 01](1.png)
+
 ## Technologies Used:
 - C#
 - Unity Game Engine
 
-## References:
+## Resources:
 ### Tutorial Links:
 // 2D Movement: https://www.youtube.com/watch?v=dwcT-Dch0bA
 // 2D Animation: https://www.youtube.com/watch?v=hkaysu1Z-N8
@@ -14,3 +16,5 @@
 // Health Bar: https://www.youtube.com/watch?v=BLfNP4Sc_iA&t=153s
 ### GitHub with Unity:
 // https://www.youtube.com/watch?v=qpXxcvS-g3g
+### The Noun Project:
+// https://thenounproject.com/search/?q=bug&i=887247
