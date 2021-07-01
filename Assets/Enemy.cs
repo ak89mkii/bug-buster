@@ -21,7 +21,7 @@ public class Enemy : MonoBehaviour
     // Update is called once per frame
     void Die()
     {
-        Instantiate(deatEffect, transform.position, Quaternion.identity);
+        Instantiate(deathEffect, transform.position, Quaternion.identity);
         Destroy(gameObject);
     }
 }

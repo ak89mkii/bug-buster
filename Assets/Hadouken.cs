@@ -5,15 +5,21 @@ using UnityEngine;
 public class Hadouken : MonoBehaviour
 {
     public float speed = 20f;
+    public int damage = 100;
     public Rigidbody2D rb;
-    // Start is called before the first frame update
+    public GameObject impactEffect;
+
     void Start()
     {
         rb.velocity = transform.right * speed;
     }
 
     void OnTriggerEnter2D (Collider2D hitInfo) {
-        
-        Destroy(gameObject);
+        Enemy enemy = hitInfo.GetComponent<Enemy>();
+        if (enemy != null) {
+            enemy.TakeDamage(10);
+            Destroy(gameObject);
+            Instantiate(impactEffect, transform.position, transform.rotation);
+        }
     }
 }
