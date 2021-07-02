@@ -14,6 +14,9 @@
 // 2D Shooting: https://www.youtube.com/watch?v=wkKsl1Mfp5M&t=961s
 // Dialogue Box: https://www.youtube.com/watch?v=_nRzoTzeyxU
 // Health Bar: https://www.youtube.com/watch?v=BLfNP4Sc_iA&t=153s
+// https://www.youtube.com/watch?v=7nxKAtxGSn8
+// https://www.youtube.com/watch?v=zc8ac_qUXQY
+// https://www.youtube.com/watch?v=Iv7A8TzreY4
 ### GitHub with Unity:
 // https://www.youtube.com/watch?v=qpXxcvS-g3g
 ### The Noun Project:
